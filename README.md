@@ -1,0 +1,5 @@
+# dataStructure
+The purpose of this program is to look at the population distribution in California, and our data includes the total population, the population of African American, Asian, Hispanic, and  White.
+Implement the Binary Search Tree and HashTable(including rehash), Shared the data between different data stucture.
+Use the zip code data as the primary key to demostrate.
+Code implemented by C++
