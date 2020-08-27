@@ -1,0 +1,25 @@
+95212,Stockton,San Joaquin,27512    1508    11900    6873    6016
+95035,Milpitas,Santa Clara,75614    2365    50484    11742    8312
+95376,Tracy,San Joaquin,52371    2689    4658    24208    18054
+95616,Davis,Yolo,50068    1438    12393    6874    26389
+95630,Folsom,Sacramento,75864    3168    12492    8489    47543
+95687,Vacaville,Solano,67504    8269    4900    15174    34511
+94087,Sunnyvale,Santa Clara,57178    769    27823    4162    21929
+95123,San Jose,Santa Clara,66858    3002    15032    18843    26706
+95064,Santa Cruz,Santa Cruz,9993    247    2834    2819    3506
+90011,Los Angeles,Los Angeles,108051    9040    619    97454    626
+91711,Claremont,Los Angeles,36933    1990    5059    10070    18245
+93033,Oxnard,Ventura,83572    1799    5802    70401    4867
+93063,Simi Valley,Ventura,56457    816    5143    14183    34544
+93117,Goleta,Santa Barbara,57913    1413    7949    17847    28528
+90210,Beverly Hills,Los Angeles,20016    188    1680    804    16546
+92114,San Diego,San Diego,69635    13657    17345    30277    6211
+94123,San Francisco,San Francisco,25461    470    2565    1693    19808
+92704,Santa Ana,Orange,90525    859    16069    64901    7983
+92399,Yucaipa,San Bernardino,54027    627    1400    18387    32439
+93003,Ventura,Ventura,51956    831    2317    16417    30526
+92020,El Cajon,San Diego,58862    3217    2133    15113    35396
+95014,Cupertino,Santa Clara,62682    522    41627    2407    16354
+95020,Gilroy,Santa Clara,63251    1012    4242    36678    20144
+94305,Stanford,Santa Clara,15343    661    4124    2073    7287
+95111,San Jose,Santa Clara,64891    1602    22341    33573    5856
